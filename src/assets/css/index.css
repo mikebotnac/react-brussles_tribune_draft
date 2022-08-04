@@ -82,10 +82,12 @@ button :hover {
 
 .third .h2 {
     margin-top: 100px;
+    font-size: 16px;
 }
 
 .third .h1 {
     margin-top: 100px;
+    font-size: 16px!important;
 }
 
 .recomButton {
