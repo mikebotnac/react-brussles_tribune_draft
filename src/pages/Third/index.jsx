@@ -24,8 +24,12 @@ function Third() {
           <h1>Ultimately, millionaires and billionaires will pass on their wealth to their<br />
             next generation </h1>
         </div>
-        <Button label='Recommended reading' link='' />
-        <Button label='Next' link='/fouth' />
+        <div className='recomButton'>
+          <Button cls='outlineButton' label='Recommended reading' link='' />
+        </div>
+        <div className='nextButton'>
+          <Button cls='outlineButton' label='Next' link='/fourth' />
+        </div>
       </div>
     </div>
   );
