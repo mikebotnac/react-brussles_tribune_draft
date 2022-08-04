@@ -10,6 +10,7 @@ function Second() {
         <div className='img'>
           <img src={Img} />
         </div>
+        <h1>UNITED WE ARE A FORCE</h1>
         <Button label='Next' link='/third' />
       </div>
     </div>
